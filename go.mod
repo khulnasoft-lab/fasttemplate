@@ -1,4 +1,4 @@
-module github.com/valyala/fasttemplate
+module github.com/khulnasoft-labs/fasttemplate
 
 go 1.12
 
